@@ -9,8 +9,8 @@ phonebook-app
 │   ├── main.cpp        # Berisi fungsi utama dan logika interaksi pengguna
 │   ├── PhoneBook.cpp   # Mengimplementasikan metode PhoneBook class
 │   ├── PhoneBook.h     # Mendefinisikan PhoneBook class
-│   ├── Contact.cpp      # Mengimplementasikan metode Contact class
-│   ├── Contact.h        # Mendefinisikan Contact class
+│   ├── Contact.cpp     # Mengimplementasikan metode Contact class
+│   ├── Contact.h       # Mendefinisikan Contact class
 └── README.md           # Dokumentasi untuk proyek
 ```
 
